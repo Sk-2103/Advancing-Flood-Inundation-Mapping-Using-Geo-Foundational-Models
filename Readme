@@ -24,6 +24,21 @@ The second geo-foundational model used in this study is Clay, which is open-acce
 A detailed description and repository can be found at:
 https://github.com/Clay-foundation/model.
 
+###Training and Testing TransNorm, UViT, UNet and Attention UNet###
+1) conda env create -f environment_torch.yaml
+
+2) Configure Data Paths and Settings:
+In config/config_setting_other.py, define:
+Data paths (data_path) where your datasets are located.
+Number of channels (num_channels) and other dataset-specific configurations like image size (image_size) or batch size (batch_size).
+
+3) Setup Training Script (main.ipynb):
+Your main.ipynb should include the following key steps:
+Loading and preprocessing data.
+Initializing and training each model (TransNorm, UViT, UNet, Attention UNet).
+Evaluating performance using appropriate metrics (e.g., accuracy, IoU for segmentation tasks).
+Saving trained models and results (optional).
+
 Data
 This study uses multisensor remote sensing data of 19 flood events globally (FloodPlanet) which can be found at : https://doi.org/10.25739/m69q-8k22
 
