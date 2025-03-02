@@ -87,4 +87,4 @@ If you use this repository, please cite our work:
 
 ## License
 
-This project is licensed under the **[Your License Name]** - see the LICENSE file for details.
+
