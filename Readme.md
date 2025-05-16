@@ -1,8 +1,8 @@
 **# Learning More with Less: Advancing Flood Inundation Mapping Using Geo-Foundational Models**
 
-This repository contains the code and data sources for the CVPR 2025 EarthVision submission titled **"Advancing Flood Inundation Mapping Using Geo-Foundational Models and Vision Transformers."** The original article can be found at *[Provide Link]*.
+This repository contains the code and data sources for the ICML 2025 submission titled **"Learning More with Less: Advancing Flood Inundation Mapping Using Geo-Foundational Models"** The original article can be found at *[Provide Link]*.
 
-This study evaluates traditional CNN models, Vision Transformers trained from scratch, and large geo-foundational models (**Prithvi** and **Clay**) for flood inundation mapping.
+This study evaluates traditional CNN models, Vision Transformers trained from scratch, and large geo-foundational models (**Prithvi**, **DOFA** and **Clay**) for flood inundation mapping.
 
 ---
 
