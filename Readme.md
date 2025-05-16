@@ -62,11 +62,12 @@ Ensure `main.ipynb` includes the following key steps:
 
 ---
 ## DOFA Model Implementation
-## Data
-The second geo-foundational model used in this study is **DOFA**, which is open-access. 
+
+The third geo-foundational model used in this study is **DOFA**, which is open-access. 
 
 A detailed description and repository can be found at: https://github.com/zhu-xlab/DOFA
 
+## Data
 This study uses **multisensor remote sensing data of 19 flood events globally (FloodPlanet)**. The dataset can be accessed at:
 
 ➡️ [FloodPlanet Dataset](https://doi.org/10.25739/m69q-8k22)
