@@ -1,4 +1,4 @@
-# Advancing Flood Inundation Mapping Using Geo-Foundational Models and Vision Transformers
+**# Learning More with Less: Advancing Flood Inundation Mapping Using Geo-Foundational Models**
 
 This repository contains the code and data sources for the CVPR 2025 EarthVision submission titled **"Advancing Flood Inundation Mapping Using Geo-Foundational Models and Vision Transformers."** The original article can be found at *[Provide Link]*.
 
@@ -61,8 +61,11 @@ Ensure `main.ipynb` includes the following key steps:
 - **Saving trained models and results** (optional)
 
 ---
-
+## DOFA Model Implementation
 ## Data
+The second geo-foundational model used in this study is **DOFA**, which is open-access. 
+
+A detailed description and repository can be found at: https://github.com/zhu-xlab/DOFA
 
 This study uses **multisensor remote sensing data of 19 flood events globally (FloodPlanet)**. The dataset can be accessed at:
 
@@ -76,9 +79,9 @@ If you use this repository, please cite our work:
 
 ```
 @article{your_citation_here,
-  title={Advancing Flood Inundation Mapping Using Geo-Foundational Models and Vision Transformers},
-  author={Your Name et al.},
-  journal={CVPR EarthVision},
+  title={Learning More with Less: Advancing Flood Inundation Mapping Using Geo-Foundational Models},
+  author={Kaushik et al.},
+  journal={ICML},
   year={2025}
 }
 ```
