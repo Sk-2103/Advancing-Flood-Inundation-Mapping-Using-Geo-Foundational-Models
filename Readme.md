@@ -80,7 +80,7 @@ If you use this repository, please cite our work:
 ```
 @article{your_citation_here,
   title={Learning More with Less: Advancing Flood Inundation Mapping Using Geo-Foundational Models},
-  author={Kaushik et al.},
+  author={ et al.},
   journal={ICML},
   year={2025}
 }
