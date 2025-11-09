@@ -80,9 +80,9 @@ If you use this repository, please cite our work:
 
 ```
 @article{your_citation_here,
-  title={Learning More with Less: Advancing Flood Inundation Mapping Using Geo-Foundational Models},
-  author={ et al.},
-  journal={ICML},
+  title={Assessing Geo-Foundational Models for Flood Inundation Mapping: Benchmarking models for Sentinel-1, Sentinel-2, and Planetscope},
+  author={ Kaushik et al.},
+  journal={https://doi.org/10.48550/arXiv.2511.01990},
   year={2025}
 }
 ```
@@ -90,5 +90,6 @@ If you use this repository, please cite our work:
 ---
 
 ## License
+
 
 
